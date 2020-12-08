@@ -3,7 +3,7 @@
 #include <linux/printk.h>
 #include "hello1.h"
 
-MODULE_AUTHOR("Ilnitsky Vladislav");
+MODULE_AUTHOR("Hrona Yurii");
 MODULE_DESCRIPTION("Hello1 advanced, world in Linux Kernel Training");
 MODULE_LICENSE("Dual BSD/GPL");
 
